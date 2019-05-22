@@ -1,4 +1,11 @@
 # vue-poc
+A very simple POC of building a multi-page Vue app
+
+## Resources
+https://cli.vuejs.org/guide/html-and-static-assets.html#building-a-multi-page-app
+https://vuejs.org/v2/guide/list.html
+https://alligator.io/vuejs/rest-api-axios/
+https://jsonplaceholder.typicode.com/posts
 
 ## Project setup
 ```
